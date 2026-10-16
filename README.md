@@ -226,9 +226,7 @@ This project provides practical experience with:
 
 ## 👨‍💻 Author
 
-**Your Name**
-
-Replace this field with your name before publishing the project.
+-PAGOTI . JYOTHIR MUKESH
 
 ## 📄 License
 
